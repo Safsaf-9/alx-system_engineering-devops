@@ -1,0 +1,1 @@
+chmod u=rwx,g=r,o=rwx hello
